@@ -9,5 +9,6 @@
   <h1>My PHP Website</h1>
   <p>Here is some static content.</p>
   <p><?php echo "Here is some dynamic content"; ?></p>
+  <p><?php echo "hello world"; ?></p>
 </body>
 </html>
